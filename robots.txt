@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api-design-excellence-work.html
+Disallow: /index-work.html
 
 
 Sitemap: https://api-consulting.taliferro.com/sitemap.xml
